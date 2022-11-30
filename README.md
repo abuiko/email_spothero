@@ -1,0 +1,1 @@
+Remade Promotional email from SpotHero using html table
